@@ -11,4 +11,4 @@ Or, once the MS Login button is implemented, it will automatically log into the 
 
 ## App Link
 
-https://udacitycms.azurewebsites.net/home
+https://udacitycms.azurewebsites.net/
